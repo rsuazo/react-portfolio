@@ -49,7 +49,7 @@ export const PROJECTS = [
   {
     title: "Legacy Portfolio Website",
     image: project3,
-    link: "https://robertsuazo.me",
+    link: "https://blog-suazo.herokuapp.com/",
     description:
       "A personal portfolio website showcasing projects, skills, and contact information. Written in Ruby and leveraging the Ruby on Rails framework.",
     technologies: ["HTML", "CSS", "Ruby", "Ruby on Rails", "PostgreSQL"],
