@@ -35,6 +35,7 @@ export const PROJECTS = [
   {
     title: "Winged Panda E-Commerce Website",
     image: wingedPanda,
+    link: "https://ecommerce-eight-lemon.vercel.app/",
     description:
       "A fully functional e-commerce website with features like product listing, shopping cart, and stripe integration.",
     technologies: ["Next.js", "Sanity CMS", "Vercel", "Stripe"],
