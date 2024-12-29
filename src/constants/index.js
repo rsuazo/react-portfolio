@@ -1,4 +1,4 @@
-import project1 from "../assets/projects/project-1.jpg";
+import wingedPanda from "../assets/projects/wingedPanda.png";
 import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/railsPortfolioSite.png";
 import project4 from "../assets/projects/project-4.jpg";
@@ -32,13 +32,13 @@ export const EXPERIENCES = [
 ];
 
 export const PROJECTS = [
-  // {
-  //   title: "E-Commerce Website",
-  //   image: project1,
-  //   description:
-  //     "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
-  //   technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
-  // },
+  {
+    title: "Winged Panda E-Commerce Website",
+    image: wingedPanda,
+    description:
+      "A fully functional e-commerce website with features like product listing, shopping cart, and stripe integration.",
+    technologies: ["Next.js", "Sanity CMS", "Vercel", "Stripe"],
+  },
   // {
   //   title: "Task Management App",
   //   image: project2,
